@@ -1,4 +1,4 @@
-book/
+book/*.pdf
 # Compiled class file
 *.class
 
